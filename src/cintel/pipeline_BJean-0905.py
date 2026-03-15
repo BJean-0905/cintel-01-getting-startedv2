@@ -49,7 +49,7 @@ def main() -> None:
     log_path(LOG, "DOCS_DIR", DOCS_DIR)
 
     LOG.info("========================")
-    LOG.info("Pipeline executed successfully!")
+    LOG.info("Pipeline executed successfully! Blessed_be_the_data.")
     LOG.info("========================")
     LOG.info("END main()")
 
