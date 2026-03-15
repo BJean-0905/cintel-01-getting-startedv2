@@ -1,4 +1,4 @@
-# cintel-01-getting-started
+# cintel-01-getting-startedv2
 
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
@@ -18,7 +18,7 @@ These projects are **hands-on textbooks** for learning applied continuous intell
 
 ## This Project
 
-This is the **getting started** project.
+This is the **getting startedv2** project.
 The goal is to copy this repository,
 set up your environment so you can run the pipeline,
 and push the new file it generates to GitHub.
@@ -64,7 +64,7 @@ Pipeline executed successfully!
 And a new file named `project.log` will appear in the project folder.
 
 Once you see it, you're 90% of the way there.
-After that, you'll just make the project yours and get started exploring.
+After that, you'll just make the project yours and get startedv2 exploring.
 
 ## Command Reference
 
@@ -82,9 +82,9 @@ After you get a copy of this repo in your own GitHub account,
 open a machine terminal in your `Repos` folder:
 
 ```shell
-# Replace username with YOUR GitHub username.
-git clone https://github.com/username/cintel-01-getting-started
-cd cintel-01-getting-started
+# Replace BJean_0905 with YOUR GitHub BJean_0905.
+git clone https://github.com/BJean_0905/cintel-01-getting-startedv2
+cd cintel-01-getting-startedv2
 code .
 ```
 
